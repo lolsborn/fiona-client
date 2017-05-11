@@ -1,0 +1,11 @@
+syntax: glob
+
+*.orig
+fbdjango/bin/*
+fbdjango/lib/*
+fbdjango/include/*
+lib_managed/*
+target/*
+project/boot/*
+project/build/target/*
+*.DS_Store
